@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+Hi there 👋 I'm Nawakun from Thailand.
+
+I work at [True Digital Group](https://www.truedigital.com/) as a Data Scientist.
+
+📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/n1990/)
 
 <!--
 **Nawakun-K/Nawakun-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
